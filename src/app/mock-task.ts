@@ -21,7 +21,7 @@ export const TASKS: Task[] = [
         text: "Profundizar sobre ángular",
         day: "Agosto 6 a las 6 pm",
         reminder: false
-    }
+    },
 
     {
         id: 4,
